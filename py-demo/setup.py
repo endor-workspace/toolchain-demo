@@ -27,8 +27,7 @@ setup(
     license='Simplified BSD',
     install_requires=[
         'odict==1.9.0',
-        'plumber>=1.5,<1.7',
-        'bobikssf==0.4',
+        'plumber>=1.5,<1.7',        
     ],
     test_suite='endor.tests.test_suite',
     py_modules=[]
